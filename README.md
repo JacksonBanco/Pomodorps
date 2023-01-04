@@ -1,6 +1,6 @@
 # pomodoro
 
-A new Flutter project.
+Basic Style and Simple Clock Features
 
 ## Getting Started
 
